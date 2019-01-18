@@ -124,7 +124,7 @@
 		$position = array_search('Fraise', $fruits);
 		echo '"Fraise" se trouve en position ' . $position . '<br />';
 		?>
-desfrdf
+
 	</p>
 
 </body>
